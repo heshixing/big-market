@@ -1,0 +1,1 @@
+package com.hsx.domain.xxx.service;
